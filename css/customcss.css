@@ -1,0 +1,62 @@
+body {
+    position: relative;
+    top: 100px;
+}
+.card .card-body .font {
+    display: block;
+    font-size: 30px;
+    font-weight: 500;
+    color: inherit;
+    font-family: inherit;
+    width: 100%;
+}
+
+.card .card-body .font1 {
+    background-color: #f8880f;
+    box-sizing: border-box;
+    color: #fff;
+    display: block;
+    font-size: 13px;
+    font-weight: 200;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    font-family: inherit;
+    position: relative;
+    bottom: 22px;
+}
+
+.font2 {
+    display: block;
+    font-size: 15px;
+    font-weight: 500;
+    font-weight: bold;
+    color: inherit;
+    font-family: inherit;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.font3 {
+    display: block;
+    font-size: 10px;
+    font-weight: 500;
+    font-weight: bold;
+    color: inherit;
+    font-family: inherit;
+    width: 100%;
+    margin-left: 60px;
+}
+
+.font4 {
+    display: block;
+    font-size: 39.4px;
+    font-weight: 500;
+    font-weight: bold;
+    color: inherit;
+    font-family: inherit;
+    width: 100%;
+}
